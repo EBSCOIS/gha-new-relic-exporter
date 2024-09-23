@@ -1,4 +1,4 @@
-FROM python:3.10-slim-buster
+FROM 284447746849.dkr.ecr.us-east-1.amazonaws.com/justinvice:slim-buster
 
 WORKDIR /app
 
